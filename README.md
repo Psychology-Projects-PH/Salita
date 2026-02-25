@@ -1,6 +1,6 @@
-**Privacy Policy version 1.0 for the Salita iOS app**
+**Privacy Policy version 1.1 for the Salita iOS app**
 
-The Salita iOS app does not collect any user data of any kind. 
-The app does not access the Internet at all.
+The Salita iOS app do not collect any user data of any kind. 
+The app do not access the Internet at all.
 
 All resources are static content that can be used offline.
